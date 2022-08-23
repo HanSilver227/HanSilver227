@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HanSilver227
+- 👋 Hi, I’m @Han Silver
 - 👀 I’m interested in Programming and Robotics.
-- 🌱 I’m currently learning HTML CSS.
-- 💞️ I’m looking to collaborate on learning programming with other beginners.
+- 💞️ I’d love to collaborate on learning programming with others.
 - 📫 How to reach me - goldenmaximus44@gmail.com
 
 <!---
